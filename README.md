@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2B579A&center=true&vCenter=true&width=600&lines=%E7%94%B0%E4%BD%B3%E9%91%AB+%7C+Jiaxin+Tian;AI+%E4%BA%A7%E5%93%81+%C2%B7+Agent+%E5%BC%80%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F;%E4%BB%8E+0+%E5%88%B0+1+%E6%9E%84%E5%BB%BA+AI+%E5%8E%9F%E5%9E%8B" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2B579A&center=true&vCenter=true&width=600&lines=Tom+%7C+AI+%26+Full--Stack+Builder;AI+%E4%BA%A7%E5%93%81+%C2%B7+Agent+%E5%BC%80%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F;%E4%BB%8E+0+%E5%88%B0+1+%E6%9E%84%E5%BB%BA+AI+%E5%8E%9F%E5%9E%8B" alt="Typing SVG" />
 
 </div>
 
@@ -18,7 +18,6 @@
 英语母语级别的 AI 探索者，旅游管理专业跨界全栈开发。热衷于用大语言模型构建 Agent 原型，从零到一实现过十余个 AI 相关项目。目前在寻找 **AI 产品 / Agent 开发** 方向的实习机会，期望深度参与 Agent 从设计到落地的全过程。
 
 - 🎓 河北环境工程学院 · 旅游管理与服务教育 · 2026 届
-- 🏆 外研社英语演讲特等奖 / 跨境电商国赛二等奖 / 用外语讲中国故事全国二等奖
 - 🔭 正在进行：GitHub 项目整理 + AI Agent 评测闭环设计
 - 📫 Reach me: _填入你的邮箱_
 
@@ -165,21 +164,13 @@
 
 ---
 
-### 🏆 Highlights
+### 📜 Certifications
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🥇_外研社·国才杯_英语演讲大赛-初赛特等奖_(2022)-2B579A?style=for-the-badge" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/🥈_高教社杯_用外语讲好中国故事-全国二等奖_(2024)-2B579A?style=for-the-badge" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/🥈_全国商业精英挑战赛_跨境电商赛道-全国二等奖_(2024)-2B579A?style=for-the-badge" />
-</p>
 <p align="center">
   <img src="https://img.shields.io/badge/IELTS-7.5_(Listening_8.5_|_Reading_8.0)-brightgreen?style=for-the-badge&logo=ielts" />
   <img src="https://img.shields.io/badge/CET--6-Passed-0072C6?style=for-the-badge" />
   <img src="https://img.shields.io/badge/普通话-二级甲等-FF6600?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/阿里国际站-操盘官证书-FF6A00?style=for-the-badge&logo=alibabacloud" />
 </p>
 
 ---
